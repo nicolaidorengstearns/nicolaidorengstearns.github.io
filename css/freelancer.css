@@ -71,7 +71,7 @@ header .intro-text .name {
     font-weight: 700;
 }
 header .photo {
-    width: 300px; height: 300px; padding: 20px 0 30px 0; margin: 0 auto;
+    width: 100px; height: 100px; padding: 20px 0 30px 0; margin: 0 auto;
 }
 header .intro-text .skills {
     font-size: 2em;
