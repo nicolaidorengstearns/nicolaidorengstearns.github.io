@@ -70,7 +70,7 @@ header .container {
     font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-@media(min-width: 900px) {
+@media(min-width: 375px) {
   .btn-autosize {
     text-transform: uppercase;
     font-weight: 500;
@@ -125,7 +125,7 @@ header .photo {
     }
 }
 
-@media(min-width:900px) {
+@media(min-width:500px) {
     .navbar-fixed-top {
         padding: 10px 0;
         -webkit-transition: padding .3s;
