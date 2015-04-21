@@ -62,7 +62,7 @@ header .container {
     text-transform: uppercase;
     font-weight: 500;
     padding: 6px 30px;
-    font-size: 14px;
+    font-size: 1em;
     border-radius: 8px;
     color: #fff;
     background-color: #efc84a;
@@ -75,7 +75,7 @@ header .container {
     text-transform: uppercase;
     font-weight: 500;
     padding: 18px 100px;
-    font-size: 40px;
+    font-size: 2em;
     border-radius: 8px;
     color: #fff;
     background-color: #efc84a;
