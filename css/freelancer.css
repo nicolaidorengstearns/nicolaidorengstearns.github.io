@@ -62,7 +62,7 @@ header .container {
     text-transform: uppercase;
     font-weight: 500;
     padding: 6px 30px;
-    font-size: 40px;
+    font-size: 14px;
     border-radius: 8px;
     color: #fff;
     background-color: #efc84a;
@@ -70,7 +70,7 @@ header .container {
     font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-@media(min-width: 375px) {
+@media(min-width: 500px) {
   .btn-autosize {
     text-transform: uppercase;
     font-weight: 500;
@@ -105,7 +105,7 @@ header .photo {
 }
 
 
-@media(min-width:375px) {
+@media(min-width:500px) {
     header .container {
         padding-top: 100px;
         padding-bottom: 50px;
@@ -255,15 +255,6 @@ section.success {
     }
 }
 
-.btn-lg {
-    padding: 18px 100px;
-    font-size: 40px;
-    border-radius: 8px;
-    color: #444a51;
-    background-color: #efc84a;
-    border:solid 2px  #efc84a;
-    font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
 
 .btn-outline {
     margin-top: 15px;
