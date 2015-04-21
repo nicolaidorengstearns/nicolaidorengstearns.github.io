@@ -124,7 +124,9 @@ header .photo {
         font-size: 3.5em;
     }
 }
-
+.navbar-brand {
+    font-size: 1em;
+}
 @media(min-width:500px) {
     .navbar-fixed-top {
         padding: 10px 0;
@@ -145,7 +147,7 @@ header .photo {
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1em;
+        font-size: 1.5em;
     }
 }
 
